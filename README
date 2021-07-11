@@ -1,0 +1,16 @@
+This is the Digital Story Creator. It takes images and uses them like cards.
+It organizes them by folder and prefix (the characters before nn.ext, when nn
+is up to a 6-digit number and ext is an image file extension). It will accept
+png, jpg, bmp, and gif files for now. It will present a board to the user and 
+allow them to select what pools they want to draw from, where to place them,
+and how to orient them. It will also allow the user to save screen shots of
+the board.
+
+This product is generic and will not include graphics from any sources. The
+idea is to allow the user to use their own images or digital decks they have
+purchased from other creators.
+
+This program is governed under the general license in ./etc.
+
+Jeffrey Scott
+07/11/2021

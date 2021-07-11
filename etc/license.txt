@@ -1,0 +1,9 @@
+This work is licensed under CC BY-NC-ND 4.0. If you wish to assist in building
+this product, contact me on GitHub at valenpendragon or via my email address
+valenpendragon@gmail.com. The reason for having this under a restrictive
+license is that it will be able to sort and work with "decks" that could be
+under fully active copyrights. My hope is to use these libraries to help those
+creators produce digital versions of their already wonderful material.
+
+Jeffrey Scott
+07/11/2021
